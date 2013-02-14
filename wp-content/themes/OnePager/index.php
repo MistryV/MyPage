@@ -303,7 +303,7 @@ $url = wp_get_attachment_url( get_post_thumbnail_id($post->ID) );
         <div class="clear"> </div>
 		<?php   ?>
         <ul class="social_icons">
-          <li><a href="<?php echo $social_facebook;  ?>" id="fb" original-title="View my StackExchange"> <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/logo_stackoverflow.png" alt="Facebook" /></a></li>
+          <li><a href="<?php echo $social_facebook;  ?>" id="fb" original-title="Join My Fan Club"> <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/facebook.png" alt="Facebook" /></a></li>
           <li><a href="<?php echo $social_twitter;  ?>" id="tw" original-title="Follow Me on Twitter"> <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/twitter.png" alt="Twitter" /></a></li>
           <li><a href="<?php echo $social_linkedin;  ?>" id="ld" original-title="Find me on LinkedIn"> <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/linkedin.png" alt="LinkedIn" /></a></li>
         </ul>
