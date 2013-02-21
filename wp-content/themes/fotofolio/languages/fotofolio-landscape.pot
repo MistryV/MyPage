@@ -1,0 +1,758 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid   ""
+msgstr  "Project-Id-Version: PACKAGE VERSION\n"
+        "Report-Msgid-Bugs-To: \n"
+        "POT-Creation-Date: 2011-03-23 00:11+0700\n"
+        "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=CHARSET\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#: libs/wpop/bundled/options.php:30
+msgid   "16px x 16px PNG/GIF/Ico image that will represent your website's "
+        "icon. You can create it using online tools such as <a href=\"http://"
+        "favikon.com/\">favikon</a>."
+msgstr  ""
+
+#: 404.php:15
+msgid   "404 Not Found"
+msgstr  ""
+
+#: libs/config/options.php:64
+msgid   "A category which will be treated as the blog section."
+msgstr  ""
+
+#: libs/config/options.php:42
+msgid   "A category which will be treated as the testimonial page."
+msgstr  ""
+
+#: libs/config/options.php:27
+msgid   "About yourself."
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:449
+msgid   "Add"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:242
+msgid   "Add the entry which you like to show on slider, drag and drop to "
+        "reorder it. (Note: for Categories and Tags, the posts will be "
+        "automatically ordered by date)"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:78
+msgid   "Additional custom codes to be added to the footer."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:46
+msgid   "Additional custom codes to be added to the header."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:152
+msgid   "Additional custom css to be added to template."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:65
+msgid   "All rights reserved"
+msgstr  ""
+
+#: libs/config/options.php:283
+msgid   "Allow Comment"
+msgstr  ""
+
+#: libs/config/options.php:289
+msgid   "Allow visitor to post a comment."
+msgstr  ""
+
+#: libs/config/options.php:141
+msgid   "Always on Center"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:24
+msgid   "An image that will represent your website's logo. A PNG transparent "
+        "image would be the great one."
+msgstr  ""
+
+#: libs/config/options.php:134
+msgid   "Auto Scale"
+msgstr  ""
+
+#: libs/config/options.php:135
+msgid   "Auto scaled the popup to fit the viewport."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:258
+msgid   "Available Schemes"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:100
+msgid   "Background Color"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:106
+msgid   "Background Image"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:123
+msgid   "Background Image Position"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:112
+msgid   "Background Image Repeat"
+msgstr  ""
+
+#: libs/config/options.php:25
+msgid   "Bio"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:205
+msgid   "Blockquote"
+msgstr  ""
+
+#: libs/config/options.php:56 libs/config/options.php:72
+msgid   "Blog"
+msgstr  ""
+
+#: libs/config/options.php:69
+msgid   "Blog Heading"
+msgstr  ""
+
+#: libs/config/options.php:62
+msgid   "Blog Section"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:355
+msgid   "Bold"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:357
+msgid   "Bold Italic"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:132
+msgid   "Bottom Center"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:131
+msgid   "Bottom Left"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:133
+msgid   "Bottom Right"
+msgstr  ""
+
+#: sidebar.php:7
+msgid   "Categories"
+msgstr  ""
+
+#: archive.php:6 category-default.php:6
+msgid   "Category"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:129
+msgid   "Center Center"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:128
+msgid   "Center Left"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:130
+msgid   "Center Right"
+msgstr  ""
+
+#: libs/wpop/classes/wpop.php:397 libs/wpop/functions/pages.php:71
+msgid   "Changelog"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:259
+msgid   "Click the screenshot and press \"Save Changes\" to activate."
+msgstr  ""
+
+#: libs/config/options.php:147
+msgid   "Close on Click"
+msgstr  ""
+
+#: libs/config/options.php:148
+msgid   "Close the popup if clicking the content."
+msgstr  ""
+
+#: comments.php:18
+msgid   "Comments"
+msgstr  ""
+
+#: comments.php:34
+msgid   "Comments are closed."
+msgstr  ""
+
+#: libs/config/options.php:253
+msgid   "Content Heading"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:63 libs/wpop/bundled/options.php:65
+msgid   "Copyright"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:398
+msgid   "Current"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:151
+msgid   "Custom CSS"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:94
+msgid   "Custom Style"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:101
+msgid   "Custom body background color."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:107
+msgid   "Custom body background image."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:146
+msgid   "Customize the color of the link hover."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:140
+msgid   "Customize the color of the link."
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:353
+msgid   "Default..."
+msgstr  ""
+
+#: libs/config/options.php:111
+msgid   "Disable and use only the image on slider."
+msgstr  ""
+
+#: libs/config/options.php:102
+msgid   "Display Duration"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:169
+msgid   "Document"
+msgstr  ""
+
+#: libs/wpop/functions/pages.php:72
+msgid   "Documentation"
+msgstr  ""
+
+#: libs/wpop/classes/wpop.php:403
+msgid   "Documentations"
+msgstr  ""
+
+#: comments.php:58
+msgid   "Email"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:367
+msgid   "Enable"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:95
+msgid   "Enable and applies custom styling to the theme."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:64
+msgid   "Enter the Copyright notice of the website."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:240
+msgid   "Entries"
+msgstr  ""
+
+#: libs/config/options.php:110
+msgid   "Entry Link"
+msgstr  ""
+
+#: libs/functions/fotofolio_landscape.php:175
+#, php-format
+msgid   "Exposure: %s at %s; Focal Length: %s; ISO Speed Rating: %s;"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:45 libs/wpop/bundled/options.php:77
+msgid   "Extras"
+msgstr  ""
+
+#: libs/config/options.php:88
+msgid   "Fade"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:28
+msgid   "Favicon"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:254
+msgid   "File not found"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:57
+msgid   "Footer"
+msgstr  ""
+
+#: libs/wpop/classes/wpop.php:417 libs/wpop/functions/pages.php:73
+msgid   "Forum"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:16
+msgid   "General"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_theme.php:517
+#, php-format
+msgid   "Get more theme visual styles by purchasing <a href=\"http://wordspop."
+        "com/themes/%s\">the schemes</a> as low as $2.99."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:39
+msgid   "Header"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:175
+msgid   "Heading 1"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:181
+msgid   "Heading 2"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:187
+msgid   "Heading 3"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:193
+msgid   "Heading 4"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:199
+msgid   "Heading 5"
+msgstr  ""
+
+#: libs/config/options.php:71
+msgid   "Heading title for blog section."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:164
+msgid   "Here you can use custom typography which also support the <a href="
+        "\"http://code.google.com/webfonts\">Google Fonts</a>."
+msgstr  ""
+
+#: libs/config/options.php:28
+msgid   "I'm too lazy to write about myself :D"
+msgstr  ""
+
+#: libs/config/options.php:163
+msgid   "Inside"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:625
+msgid   "Invalid options"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:356
+msgid   "Italic"
+msgstr  ""
+
+#: comments.php:42
+#, php-format
+msgid   "Leave a Reply to %s"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:139
+msgid   "Link"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:145
+msgid   "Link Hover"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:211
+msgid   "List"
+msgstr  ""
+
+#: comments.php:53
+msgid   "Log out &raquo;"
+msgstr  ""
+
+#: comments.php:53
+msgid   "Log out of this account"
+msgstr  ""
+
+#: comments.php:53
+msgid   "Logged in as"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:22
+msgid   "Logo"
+msgstr  ""
+
+#: libs/config/options.php:241
+msgid   "Main Heading"
+msgstr  ""
+
+#: functions.php:11
+msgid   "Main Menu"
+msgstr  ""
+
+#: libs/config/options.php:276
+msgid   "Miscellanious"
+msgstr  ""
+
+#: libs/wpop/classes/wpop.php:340 libs/wpop/classes/wpop.php:389
+msgid   "Mobile"
+msgstr  ""
+
+#: comments.php:56
+msgid   "Name"
+msgstr  ""
+
+#: archive.php:13 category-blog.php:23 category-default.php:13
+msgid   "Newer"
+msgstr  ""
+
+#: single-blog.php:15
+msgid   "Next"
+msgstr  ""
+
+#: libs/config/options.php:119 libs/config/options.php:188
+#: libs/config/options.php:199 libs/config/options.php:210
+#: libs/config/options.php:221 libs/config/options.php:286
+#: libs/config/options.php:297
+msgid   "No"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:114
+msgid   "No Repeat"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:354
+msgid   "Normal"
+msgstr  ""
+
+#: archive.php:12 category-blog.php:22 category-default.php:12
+msgid   "Older"
+msgstr  ""
+
+#: libs/config/options.php:164
+msgid   "Outside"
+msgstr  ""
+
+#: libs/config/options.php:165
+msgid   "Over"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:71
+msgid   "Paste the <a href=\"http://google.com/analytics/\">Google Analytics</"
+        "a> (nor others) tracking code to be added to footer."
+msgstr  ""
+
+#: libs/wpop/classes/wpop.php:126
+msgid   "Please contact sales@wordspop.com to get the download link and don't "
+        "forget to tell us your order number."
+msgstr  ""
+
+#: libs/wpop/classes/wpop.php:123
+msgid   "Please update now"
+msgstr  ""
+
+#: libs/config/options.php:128
+msgid   "Popup"
+msgstr  ""
+
+#: libs/config/options.php:142
+msgid   "Popup is always centered while scrolling page."
+msgstr  ""
+
+#: libs/config/options.php:294
+msgid   "Prevent Right Click"
+msgstr  ""
+
+#: libs/config/options.php:300
+msgid   "Prevent visitor to right click the document (e.g for saving the "
+        "stuffs)."
+msgstr  ""
+
+#: single-blog.php:16
+msgid   "Previous"
+msgstr  ""
+
+#: category-blog.php:15 single-blog.php:11
+msgid   "Published"
+msgstr  ""
+
+#: libs/config/options.php:48 libs/config/options.php:49
+msgid   "Recently Added"
+msgstr  ""
+
+#: libs/config/options.php:50
+msgid   "Recently Added heading caption."
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:251 libs/wpop/classes/wpop_form.php:522
+#: libs/wpop/functions/pages.php:147
+msgid   "Remove"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:117
+msgid   "Repeat Both Horizontally and Vertically"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:115
+msgid   "Repeat Horizontally"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:116
+msgid   "Repeat Vertically"
+msgstr  ""
+
+#: libs/wpop/functions/pages.php:77 libs/wpop/functions/pages.php:133
+msgid   "Save Changes"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:252
+msgid   "Scheme"
+msgstr  ""
+
+#: libs/config/options.php:247
+msgid   "Secondary Heading"
+msgstr  ""
+
+#: libs/wpop/classes/wpop.php:336 libs/wpop/classes/wpop.php:380
+msgid   "Settings"
+msgstr  ""
+
+#: libs/config/options.php:185
+msgid   "Show Bio"
+msgstr  ""
+
+#: libs/config/options.php:116
+msgid   "Show Caption"
+msgstr  ""
+
+#: libs/config/options.php:218
+msgid   "Show EXIF Data"
+msgstr  ""
+
+#: libs/config/options.php:207
+msgid   "Show Latest Thumbnails"
+msgstr  ""
+
+#: libs/config/options.php:196
+msgid   "Show Testimonial"
+msgstr  ""
+
+#: libs/config/options.php:153
+msgid   "Show Title"
+msgstr  ""
+
+#: libs/config/options.php:224
+msgid   "Show the EXIF metadata of current photo."
+msgstr  ""
+
+#: libs/config/options.php:154
+msgid   "Show the post title on popup box."
+msgstr  ""
+
+#: libs/config/options.php:89
+msgid   "Slide"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:220
+msgid   "Slider"
+msgstr  ""
+
+#: libs/config/options.php:235
+msgid   "Slideshow Title"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:227
+msgid   "Source"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:87
+msgid   "Styling"
+msgstr  ""
+
+#: comments.php:63
+msgid   "Submit Comment"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_migration.php:101
+msgid   "Successfully migrated from previous version"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_migration.php:103
+#, php-format
+msgid   "Successfully migrated from version %s"
+msgstr  ""
+
+#: libs/config/options.php:34 libs/config/options.php:35
+msgid   "Testimonial"
+msgstr  ""
+
+#: libs/config/options.php:40
+msgid   "Testimonial Category"
+msgstr  ""
+
+#: libs/config/options.php:36
+msgid   "Testimonial heading caption."
+msgstr  ""
+
+#: libs/config/options.php:161
+msgid   "The position of title should be placed."
+msgstr  ""
+
+#: libs/config/options.php:86
+msgid   "The slider transition effect."
+msgstr  ""
+
+#: libs/wpop/classes/wpop.php:350 libs/wpop/classes/wpop.php:423
+msgid   "Themes"
+msgstr  ""
+
+#: libs/wpop/functions/pages.php:180
+msgid   "Themes by"
+msgstr  ""
+
+#: libs/functions/fotofolio_landscape.php:168
+#, php-format
+msgid   "This photo was taken on %s at %s using a %s (%s)"
+msgstr  ""
+
+#: comments.php:7
+msgid   "This post is password protected. Enter the password to view any "
+        "comments."
+msgstr  ""
+
+#: libs/wpop/functions/pages.php:150
+msgid   "Title"
+msgstr  ""
+
+#: libs/config/options.php:160
+msgid   "Title Position"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:126
+msgid   "Top Center"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:125
+msgid   "Top Left"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:127
+msgid   "Top Right"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:70
+msgid   "Tracking Code"
+msgstr  ""
+
+#: libs/config/options.php:84
+msgid   "Transition Effect"
+msgstr  ""
+
+#: libs/config/options.php:95
+msgid   "Transition Speed"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:161
+msgid   "Typography"
+msgstr  ""
+
+#: libs/wpop/classes/wpop_form.php:262
+msgid   "Upload"
+msgstr  ""
+
+#: libs/wpop/functions/pages.php:65
+#, php-format
+msgid   "Version %s"
+msgstr  ""
+
+#: libs/wpop/functions/pages.php:71
+msgid   "View theme changelog"
+msgstr  ""
+
+#: libs/wpop/functions/pages.php:72
+msgid   "View theme documentation"
+msgstr  ""
+
+#: libs/wpop/functions/pages.php:73
+msgid   "Visit the Wordspop support forum"
+msgstr  ""
+
+#: comments.php:60 libs/wpop/classes/wpop.php:429
+msgid   "Website"
+msgstr  ""
+
+#: libs/config/options.php:191
+msgid   "Whether the bio should be shown on Home footer or not."
+msgstr  ""
+
+#: libs/config/options.php:213
+msgid   "Whether the latest thumbnails should be shown on Home footer or not."
+msgstr  ""
+
+#: libs/config/options.php:202
+msgid   "Whether the testimonial should be shown on Home footer or not."
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:229
+msgid   "Which source would you like to use as the slider. (You should re-"
+        "create the entries everytime the source changed)"
+msgstr  ""
+
+#: libs/config/options.php:259
+msgid   "Widget Heading"
+msgstr  ""
+
+#: sidebar-blog.php:4
+msgid   "Widget Section"
+msgstr  ""
+
+#: libs/config/options.php:118 libs/config/options.php:187
+#: libs/config/options.php:198 libs/config/options.php:209
+#: libs/config/options.php:220 libs/config/options.php:285
+#: libs/config/options.php:296
+msgid   "Yes"
+msgstr  ""
+
+#: comments.php:48
+#, php-format
+msgid   "You must <a href=\"%s\">logged in</a> to post a comment."
+msgstr  ""
+
+#: comments.php:42
+msgid   "Your Comment"
+msgstr  ""
+
+#: libs/wpop/bundled/options.php:111
+msgid   "background_repeat"
+msgstr  ""
+
+#: libs/wpop/classes/wpop.php:122 libs/wpop/classes/wpop.php:125
+msgid   "is available!"
+msgstr  ""
+
+#: libs/config/options.php:104
+msgid   "miliseconds"
+msgstr  ""
+
+#: category-blog.php:15 single-blog.php:11
+msgid   "on"
+msgstr  ""
+
+#: comments.php:56 comments.php:58
+msgid   "required"
+msgstr  ""
