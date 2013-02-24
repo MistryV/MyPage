@@ -10,10 +10,10 @@
                     <div id="social-icons" class="clearfix">
                         <ul id="social-links" class="clearfix">
                             <?php if(of_get_option('veecard_facebook')!='') : ?>
-                            <li class="facebook-link"><a href="<?php echo of_get_option('veecard_facebook') ?>" class="facebook" id="social-01" title="<?php _e( 'Join Us on Facebook!', 'site5framework' ); ?>">Facebook</a></li>
+                            <li class="facebook-link"><a href="<?php echo of_get_option('veecard_facebook') ?>" class="facebook" id="social-01" title="<?php _e( 'Join Me on Facebook!', 'site5framework' ); ?>">Facebook</a></li>
                             <?php endif ?>
                             <?php if(of_get_option('veecard_twitter')!=''): ?>
-                            <li class="twitter-link"><a href="<?php echo of_get_option('veecard_twitter') ?>" class="twitter" id="social-02" title="<?php _e( 'Follow Us on Twitter', 'site5framework' ); ?>">Twitter</a></li>
+                            <li class="twitter-link"><a href="<?php echo of_get_option('veecard_twitter') ?>" class="twitter" id="social-02" title="<?php _e( 'Follow Me on Twitter', 'site5framework' ); ?>">Twitter</a></li>
                             <?php endif ?>
                             <?php if(of_get_option('veecard_googleplus')!=''): ?>
                             <li class="google-link"><a href="<?php echo of_get_option('veecard_googleplus') ?>" id="social-03" title="<?php _e( 'Google+', 'site5framework' ); ?>" class="google">Google</a></li>
