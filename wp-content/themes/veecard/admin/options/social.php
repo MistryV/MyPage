@@ -23,7 +23,7 @@
                         "std" => "",
                         "type" => "text");
 
-    $options[] = array( "name" => "Vimeo URL",
+    $options[] = array( "name" => "StackCareer2.0 URL",
                         "id" => $shortname."_vimeo",
                         "std" => "",
                         "type" => "text");
