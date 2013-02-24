@@ -22,7 +22,7 @@
                             <li class="dribbble-link"><a href="<?php echo of_get_option('veecard_dribble') ?>" id="social-04" title="<?php _e( 'Dribble', 'site5framework' ); ?>" class="dribbble">Dribble</a></li>
                             <?php endif ?>
                             <?php if(of_get_option('veecard_vimeo')!=''): ?>
-                            <li class="vimeo-link"><a href="<?php echo of_get_option('veecard_vimeo') ?>" id="social-05" title="<?php _e( 'Vimeo', 'site5framework' ); ?>" class="vimeo">Vimeo</a></li>
+                            <li class="vimeo-link"><a href="<?php echo of_get_option('veecard_vimeo') ?>" id="social-05" title="<?php _e( 'Check out my StackCareer2.0', 'site5framework' ); ?>" class="vimeo">Vimeo</a></li>
                             <?php endif ?>
                             <?php if(of_get_option('veecard_skype')!=''): ?>
                             <li class="skype-link"><a href="<?php echo of_get_option('veecard_skype') ?>" id="social-06" title="<?php _e( 'Skype', 'site5framework' ); ?>" class="skype">Skype</a></li>
