@@ -81,7 +81,7 @@ echo $args['before_widget'];
 	        });
         </script>
         <!-- end twitter widget -->
-		<a class="twitter-action" href="http://twitter.com/<?php echo $instance['screen_name']; ?>"><?php _e('Follow Us on Twitter! ', 'site5framework') ?> &raquo; </a>
+		<a class="twitter-action" href="http://twitter.com/<?php echo $instance['screen_name']; ?>"><?php _e('Follow Me on Twitter! ', 'site5framework') ?> &raquo; </a>
 
 
         <?php
