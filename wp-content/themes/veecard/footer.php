@@ -49,7 +49,7 @@
 					<!-- end copyright -->
 
 					<!-- Site5 Credits-->
-					<br>Theme by <a href="http://www.s5themes.com/">Site5 WordPress Themes</a>. 
+					<!-- <br>Theme by <a href="http://www.s5themes.com/">Site5 WordPress Themes</a>.  -->
 					<!-- end Site5 Credits-->
                 </footer>
             </div>
