@@ -2,225 +2,224 @@ msgid ""
 msgstr ""
 "Project-Id-Version: contact_form\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-02-07 16:01+0300\n"
-"PO-Revision-Date: 2013-02-07 16:01+0300\n"
+"POT-Creation-Date: 2013-03-18 09:30+0300\n"
+"PO-Revision-Date: 2013-03-18 09:30+0300\n"
 "Last-Translator: \n"
-"Language-Team: Pantelis Panteloglou <ppanteloglou@gmail.com>\n"
+"Language-Team: Karoly Kovacs <karcsi1978@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: el_GR\n"
+"Language: hu_HU\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: ..\n"
-"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2;plural=n>2;\n"
 "X-Generator: Poedit 1.5.4\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: contact_form.php:78
 msgid "Activated plugins"
-msgstr "Ενεργοποιημένα πρόσθετα"
+msgstr "Aktivált pluginok"
 
 #: contact_form.php:80
 #: contact_form.php:88
 #: contact_form.php:96
 msgid "Read more"
-msgstr "Διαβάστε περισσότερα"
+msgstr "Részletek megtekintése"
 
 #: contact_form.php:80
-#: contact_form.php:1066
-#: contact_form.php:1075
+#: contact_form.php:1094
+#: contact_form.php:1103
 msgid "Settings"
-msgstr "Ρυθμίσεις"
+msgstr "Beállítások"
 
 #: contact_form.php:86
 msgid "Installed plugins"
-msgstr "Εγκατεστημένα πρόσθετα"
+msgstr "Telepített pluginok"
 
 #: contact_form.php:94
 msgid "Recommended plugins"
-msgstr "Προτεινόμενα πρόσθετα"
+msgstr "Ajánlott pluginok"
 
 #: contact_form.php:96
 msgid "Download"
-msgstr "Κατέβασμα"
+msgstr "Letöltés"
 
 #: contact_form.php:96
 #, php-format
 msgid "Install %s"
-msgstr "Εγκατάσταση %s"
+msgstr "%s telepítése"
 
 #: contact_form.php:96
 msgid "Install now from wordpress.org"
-msgstr "Εγκαταστήστε τώρα από το wordpress.org"
+msgstr "Telepítés most a wordpress.org oldalról"
 
 #: contact_form.php:98
 msgid "If you have any questions, please contact us via plugin@bestwebsoft.com or fill in our contact form on our site"
-msgstr "Αν έχετε απορίες, επικοινωνήστε στο plugin@bestwebsoft.com ή μέσω της φόρμας επικοινωνίας της ιστοσελίδας μας"
+msgstr "Amennyiben kérdése van, kérjük írjon nekünk a plugin@bestwebsoft.com címre vagy töltse ki a kapcsolatfelvételi lapot a weboldalon"
 
 #: contact_form.php:110
 #: contact_form.php:403
 msgid "Contact Form Options"
-msgstr "Επιλογές φόρμας επικοινωνίας"
+msgstr "Kapcsolatfelvételi Ürlap Beállítások"
 
 #: contact_form.php:110
 msgid "Contact Form"
-msgstr "Φόρμα επικοινωνίας"
+msgstr "Kapcsolatfelvételi Ürlap"
 
 #: contact_form.php:147
 #: contact_form.php:537
 #: contact_form.php:557
 msgid "Name:"
-msgstr "Όνομα:"
+msgstr "Noév:"
 
 #: contact_form.php:148
 #: contact_form.php:538
 #: contact_form.php:558
 msgid "Email Address:"
-msgstr "Διεύθυνση e-mail:"
+msgstr "Email cím:"
 
 #: contact_form.php:149
 #: contact_form.php:539
 #: contact_form.php:559
 msgid "Phone number:"
-msgstr ""
+msgstr "Telefonszám:"
 
 #: contact_form.php:150
 #: contact_form.php:540
 #: contact_form.php:560
 msgid "Subject:"
-msgstr "Θέμα:"
+msgstr "Tárgy:"
 
 #: contact_form.php:151
 #: contact_form.php:541
 #: contact_form.php:561
 msgid "Message:"
-msgstr "Μήνυμα:"
+msgstr "Üzenet:"
 
 #: contact_form.php:152
 #: contact_form.php:542
 #: contact_form.php:562
 msgid "Attachment:"
-msgstr "Επισύναψη:"
+msgstr "Csatolmány:"
 
 #: contact_form.php:153
 #: contact_form.php:543
 #: contact_form.php:563
 msgid "Submit"
-msgstr "Υποβολή"
+msgstr "Küldés"
 
 #: contact_form.php:154
 msgid "Your name is required."
-msgstr "Γράψτε οπωσδήποτε το όνομά σας."
+msgstr "Név megadása kötelező."
 
 #: contact_form.php:155
 msgid "A proper e-mail address is required."
-msgstr "Απαιτείται μια έγκυρη διεύθυνση e-mail."
+msgstr "Valós email cím megadása kötelező."
 
 #: contact_form.php:156
-msgid "Subject is required."
-msgstr "Γράψτε οπωσδήποτε ένα θέμα"
+msgid "Phone number is required."
+msgstr "Le numéro de téléphone est obligatoire."
 
 #: contact_form.php:157
-msgid "Message text is required."
-msgstr "Απαιτείται κείμενο μηνύματος."
+msgid "Subject is required."
+msgstr "Tárgy megadása kötelező."
 
 #: contact_form.php:158
-#, fuzzy
-msgid "Phone number is required."
-msgstr "Γράψτε οπωσδήποτε το όνομά σας."
+msgid "Message text is required."
+msgstr "Üzenet megírása kötelező."
 
 #: contact_form.php:159
 msgid "File format is not valid."
-msgstr "Το επισυναπτόμενο δεν λειτουργεί."
+msgstr "Fájl formátuma nem megengedett."
 
 #: contact_form.php:160
 msgid "Please fill out the CAPTCHA."
-msgstr "Συμπληρώστε το CAPTCHA."
+msgstr "Kérem töltse ki a CAPTCHA mezőt."
 
 #: contact_form.php:161
 msgid "Please make corrections below and try again."
-msgstr "Κάνετε διορθώσεις παρακάτω και ξαναπροσπαθήστε."
+msgstr "Kérem javítsa ki a szükséges mezőket és próbálja újra."
 
 #: contact_form.php:163
 msgid "Thank you for contacting us."
-msgstr "Ευχαριστούμε για την επικοινωνία."
+msgstr "Köszönjük az üzenetét."
 
 #: contact_form.php:358
 msgid "If the 'Redirect to page' option is selected then the URL field should be in the following format"
-msgstr ""
+msgstr "Amennyiben az 'Átirányítás egy oldalra' opció kiválasztásra kerül, az URL-t az alábbi formátumban kell megadni"
 
 #: contact_form.php:367
 msgid "Such user does not exist. Settings are not saved."
-msgstr "Δεν υπάρχει τέτοιος χρήστης. Οι επιλογές δεν αποθηκεύτηκαν."
+msgstr "Nincs ilyen felhasználó. Beállítások nem kerültek mentésre."
 
 #: contact_form.php:372
 msgid "Please enter a valid email address. Settings are not saved."
-msgstr "Παρακαλούμε εισάγετε μια σωστή διεύθυνση email. Οι επιλογές δεν αποθηκεύτηκαν."
+msgstr "Kérem valós email címet adjon meg. Beállítások nem kerültek mentésre."
 
 #: contact_form.php:378
-#, fuzzy
 msgid "Please enter a valid email address in the 'FROM' field. Settings are not saved."
-msgstr "Παρακαλούμε εισάγετε μια σωστή διεύθυνση email. Οι επιλογές δεν αποθηκεύτηκαν."
+msgstr "Kérem valós email címet adjon meg a 'FKITÖL' mezőben. Beállítások nem kerültek mentésre."
 
 #: contact_form.php:383
 msgid "Options saved."
-msgstr "Οι επιλογές αποθηκεύτηκαν."
+msgstr "Opciók elmentve."
 
 #: contact_form.php:408
 msgid "If you would like to add the Contact Form to your website, just copy and paste this shortcode to your post or page or widget:"
-msgstr "Αν θέλετε να προσθέσετε μια φόρμα επικοινωνίας στην ιστοσελίδα σας, αντιγράψτε αυτό τον σύντομο κώδικα στην ανάρτηση, τη σελίδα ή το πρόσθετό σας:"
+msgstr "Amennyiben szeretné hozzáadni a Kapcsolatfelvételi Ürlapot a weboldalához, másolja ki és illessze be az alábbi kódot egy bejegyzésbe, oldalba vagy widgetbe:"
 
 #: contact_form.php:409
 msgid "If you leave the fields empty, the messages will be sent to the email address specified during registration."
-msgstr "Αν τα παρακάτω πεδία είναι κενά, το μήνυμα θα σταλεί στη διεύθυνση που ορίστηκε κατά την εγγραφή"
+msgstr "Amennyiben ezeket a mezőket üresen hagyja, az üzenet a regisztráció során megadott email címre lesz elküldve."
 
 #: contact_form.php:413
 msgid "The user's email address:"
-msgstr "Τα μηνύματα θα στέλνονται στο email του χρήστη:"
+msgstr "A felhasználó email címe:"
 
 #: contact_form.php:417
 msgid "Create a username"
-msgstr "επιλογή χρήστη"
+msgstr "felhasználónév létrehozása"
 
 #: contact_form.php:422
 msgid "Enter a username of the person who should get the messages from the contact form."
-msgstr "Τα μηνύματα θα λαμβάνει ο χρήστης"
+msgstr "Adja meg azon személy felhasználónevét, akitől az üzeneteket szeretné kapni a Kapcsolatfelvételi Ürlap segítségével."
 
 #: contact_form.php:426
 msgid "Use this email address:"
-msgstr "Τα μηνύματα θα στέλνονται στο email "
+msgstr "Ezen email cím használata:"
 
 #: contact_form.php:429
 msgid "Enter the email address you want the messages forwarded to."
-msgstr "Ορίστε την διεύθυνση email στην οποία θα αποστέλλονται τα μηνύματα."
+msgstr "Adja meg az email címet, ahova az üzenetek érkezzenek."
 
 #: contact_form.php:433
 msgid "Additional options"
-msgstr "Πρόσθετες επιλογές"
+msgstr "További opciók"
 
 #: contact_form.php:436
 msgid "Display Attachment block"
-msgstr "Προβολή κουτιού επισύναψης αρχείου"
+msgstr "Csatolmány doboz megjelenítése"
 
 #: contact_form.php:438
 msgid "Users can attach the following file formats"
-msgstr "Οι χρήστες μπορούν να επισυνάψουν αρχεία τύπου"
+msgstr "A felhasználók a következő fájlformátumokat csatolhatják"
 
 #: contact_form.php:442
 msgid "Display Attachment tips"
-msgstr ""
+msgstr "Tippek megjelenítése a Csatolmányokhoz"
 
 #: contact_form.php:444
 msgid "Display tips below the Attachment block"
-msgstr ""
+msgstr "Tippek megjelenítése a Csatolmányok doboz alatt"
 
 #: contact_form.php:448
 msgid "Display Send me a copy block"
-msgstr "Προβολή κουτιού \"Στείλτο και σ' εμένα\""
+msgstr "A 'Kérek másolatot' opció megjelenítése"
 
 #: contact_form.php:454
 msgid "What to use?"
-msgstr ""
+msgstr "Mit szeretne használni?"
 
 #: contact_form.php:457
 msgid "Wp-mail"
@@ -228,232 +227,246 @@ msgstr "Wp-mail"
 
 #: contact_form.php:458
 msgid "You can use the wp_mail function for mailing"
-msgstr ""
+msgstr "Használhatja a wp_mail funkciót a levelezéshez"
 
 #: contact_form.php:464
 msgid "Mail"
-msgstr "Mail"
+msgstr "E-mail"
 
 #: contact_form.php:465
 msgid "To send mail you can use the php mail function"
-msgstr ""
+msgstr "Email küldéshez használhatja a php mail funkciót"
 
 #: contact_form.php:469
-#, fuzzy
 msgid "Change text of the 'FROM' field"
-msgstr "Αλλάξτε το πεδίο \"ΑΠΟ\" της φόρμας επικοινωνίας"
+msgstr "A 'KITÖL' mező szövegének módosítása"
 
 #: contact_form.php:475
 msgid "Enter the email address in the 'From' field"
-msgstr ""
+msgstr "Adja meg a 'KITÖL' mező email címét"
 
 #: contact_form.php:477
 msgid "The email address of the user who fills the form is going to be used in the field 'From'."
-msgstr ""
+msgstr "A felhasználó e-mail címe, akinek az adatai szerepelnek a 'KITÖL' mezőben."
 
 #: contact_form.php:479
 msgid "This email address will be used in the 'From' field."
-msgstr ""
+msgstr "Ez az email cím szerepel a 'KITÖL' mezőben."
 
 #: contact_form.php:483
 msgid "Display phone field"
-msgstr ""
+msgstr "Telefonszám mező megjelenítése"
 
 #: contact_form.php:489
 msgid "Required fields"
-msgstr ""
+msgstr "Kötelező mező"
 
 #: contact_form.php:491
-#: contact_form.php:955
+#: contact_form.php:983
 msgid "Name"
-msgstr "Όνομα"
+msgstr "Név"
 
 #: contact_form.php:492
-#, fuzzy
 msgid "E-Mail Address"
-msgstr "Διεύθυνση e-mail:"
+msgstr "Email cím"
 
 #: contact_form.php:493
-#: contact_form.php:963
+#: contact_form.php:991
 msgid "Phone"
-msgstr ""
+msgstr "Telefonszám"
 
 #: contact_form.php:494
-#: contact_form.php:966
+#: contact_form.php:994
 msgid "Subject"
-msgstr "Θέμα"
+msgstr "Sujet"
 
 #: contact_form.php:495
-#: contact_form.php:969
+#: contact_form.php:997
 msgid "Message"
-msgstr "Μήνυμα"
+msgstr "Üzenet"
 
 #: contact_form.php:499
 msgid "Display additional info in email"
-msgstr "Προβολή πρόσθετων πληροφοριών στο email"
+msgstr "További információk megjelenítése az emailben"
 
 #: contact_form.php:504
-#: contact_form.php:927
+#: contact_form.php:955
 msgid "Sent from (ip address)"
-msgstr "Στάλθηκε από (διεύθυνση ip)"
+msgstr "Küldő (IP cím)"
 
 #: contact_form.php:505
-#: contact_form.php:932
+#: contact_form.php:960
 msgid "Date/Time"
-msgstr "Ημερομηνία/Ώρα"
+msgstr "Dátum/Idő"
 
 #: contact_form.php:506
-#: contact_form.php:937
+#: contact_form.php:965
 msgid "Sent from (referer)"
-msgstr "Από (referer)"
+msgstr "Envoyer de (référence)"
 
 #: contact_form.php:507
-#: contact_form.php:942
+#: contact_form.php:970
 msgid "Using (user agent)"
-msgstr "με χρήση (user agent)"
+msgstr "Alkalmazás (böngésző)"
 
 #: contact_form.php:511
 msgid "Language settings for the field names in the form"
-msgstr ""
+msgstr "Az ürlap mezőinek nyelvi beállítása"
 
 #: contact_form.php:520
 msgid "Add language"
-msgstr ""
+msgstr "Nyelv hozzáadása"
 
 #: contact_form.php:524
-#, fuzzy
 msgid "Change the names of the contact form fields and error messages"
-msgstr "Αλλαγή ετικετών πεδίων της φόρμας επικοινωνίας"
+msgstr "A Kapcsolatfelvételi Ürlap mező és hibaüzenet neveinek módosítása"
 
 #: contact_form.php:529
 #: contact_form.php:582
 msgid "English"
-msgstr ""
+msgstr "Angol"
 
 #: contact_form.php:544
 #: contact_form.php:564
 msgid "Error message for the Name field"
-msgstr ""
+msgstr "Név mező hibaüzenet"
 
 #: contact_form.php:545
 #: contact_form.php:565
 msgid "Error message for the Email field"
-msgstr ""
+msgstr "Email cím mező hibaüzenet"
 
 #: contact_form.php:546
 #: contact_form.php:566
 msgid "Error message for the Phone field"
-msgstr ""
+msgstr "Telefonszám mező hibaüzenet"
 
 #: contact_form.php:547
 #: contact_form.php:567
 msgid "Error message for the Subject field"
-msgstr ""
+msgstr "Tárgy mező hibaüzenet"
 
 #: contact_form.php:548
 #: contact_form.php:568
 msgid "Error message for the Message field"
-msgstr ""
+msgstr "Üzenet mező hibaüzenet"
 
 #: contact_form.php:549
 #: contact_form.php:569
 msgid "Error message for the Attachment field"
-msgstr ""
+msgstr "Csatolmány doboz hibaüzenet"
 
 #: contact_form.php:550
 #: contact_form.php:570
 msgid "Error message for the Captcha field"
-msgstr ""
+msgstr "CAPTCHA mező hibaüzenet"
 
 #: contact_form.php:551
 #: contact_form.php:571
 msgid "Error message for the whole form"
-msgstr ""
+msgstr "Hibaüzenet az egész form számára"
 
 #: contact_form.php:552
 #: contact_form.php:572
 #: contact_form.php:591
 #: contact_form.php:597
 msgid "Use shortcode"
-msgstr ""
+msgstr "Gyorskód használata"
 
 #: contact_form.php:552
 #: contact_form.php:572
 #: contact_form.php:591
 #: contact_form.php:597
 msgid "for this language"
-msgstr ""
+msgstr "ehhez a nyelvhez"
 
 #: contact_form.php:579
 msgid "Action after email is sent"
-msgstr ""
+msgstr "Művelet az email elküldése után"
 
 #: contact_form.php:581
-#, fuzzy
 msgid "Display text"
-msgstr "Προβολή κουτιού επισύναψης αρχείου"
+msgstr "Szöveg megjelenítése"
 
 #: contact_form.php:590
 #: contact_form.php:596
 msgid "Text"
-msgstr ""
+msgstr "Szöveg"
 
 #: contact_form.php:603
 msgid "Redirect to the page"
-msgstr ""
+msgstr "Átirányítás egy weboldalra"
 
 #: contact_form.php:604
 msgid "Url"
-msgstr ""
+msgstr "Url"
 
 #: contact_form.php:609
 msgid "Save Changes"
-msgstr "Αποθήκευση αλλαγών"
+msgstr "Módosítások Mentése"
 
-#: contact_form.php:648
+#: contact_form.php:652
 msgid "Sorry, email message could not be delivered."
-msgstr "Δυστυχώς δεν μπορέσαμε να στείλουμε το email σας."
+msgstr "Sajnáljuk, az email üzenet nem továbbítható."
 
-#: contact_form.php:718
+#: contact_form.php:722
 msgid "You can attach the following file formats"
-msgstr "Μπορείτε να επισυνάψετε αρχεία τύπου"
+msgstr "A következő fájlformátumokat csatolhatja"
 
-#: contact_form.php:726
+#: contact_form.php:730
 msgid "Send me a copy"
-msgstr "Στείλε μου ένα αντίγραφο"
+msgstr "Kérek másolatot"
 
-#: contact_form.php:950
+#: contact_form.php:978
 msgid "Contact from"
-msgstr "Επικοινωνία από"
+msgstr "Üzenet küldött"
 
-#: contact_form.php:958
+#: contact_form.php:986
 msgid "Email"
-msgstr "E-Mail"
+msgstr "E-mail"
 
-#: contact_form.php:972
+#: contact_form.php:1000
 msgid "Site"
-msgstr "Ιστοσελίδα"
+msgstr "Oldal"
 
-#: contact_form.php:1023
+#: contact_form.php:1051
 msgid "If you can see this MIME, it means that the MIME type is not supported by your email client!"
-msgstr "Wenn Sie dieses MIME sehen, unterstützt Ihr Client keine MIME-Typen!"
+msgstr "Amennyiben ez a MIME nem jelenik meg, akkör az ön Levelezője nem támogatja ezt a MIME típust !"
 
-#: contact_form.php:1076
+#: contact_form.php:1104
 msgid "FAQ"
-msgstr "Συχνές ερωτήσεις"
+msgstr "GYIK (FAQ)"
 
-#: contact_form.php:1077
+#: contact_form.php:1105
 msgid "Support"
-msgstr "Υποστήριξη"
+msgstr "Támogatás"
 
-#: contact_form.php:1123
+#: contact_form.php:1151
 msgid "Are you sure that you want to delete this language data?"
-msgstr ""
+msgstr "Biztosan törölni szeretné ezt a nyelvi adatot ?"
 
-#~ msgid "E-Mail Addresse:"
-#~ msgstr "Indirizzo e-mail:"
+#, fuzzy
+#~ msgid ""
+#~ "If you would like to add a Contact Form to your website, just copy and "
+#~ "put this shortcode onto your post or page:"
+#~ msgstr ""
+#~ "Amennyiben szeretné hozzáadni a Kapcsolatfelvételi Ürlapot a "
+#~ "weboldalához, másolja ki, cs illessze be az alábbi kódot egy bejegyzésbe, "
+#~ "oldalba vagy widgetbe:"
 #~ msgid "Install Now"
-#~ msgstr "Installa Ora"
-#~ msgid "BWS Plugins"
-#~ msgstr "BWS Plugins"
+#~ msgstr "Telepítés Most"
+#~ msgid "BWS Pluginok"
+#~ msgstr "BWS Pluginok"
+
+#, fuzzy
+#~ msgid "Thank you for contact."
+#~ msgstr "Köszönjük az üzenetét."
+
+#, fuzzy
+#~ msgid "Set a name of user wo will get messages from a contact form."
+#~ msgstr ""
+#~ "Azon személy felhasználónevének megadása, akitól a Kapcsolatfelvételi "
+#~ "Ürlapüzenete érkezni fog."
+#~ msgid "E-Mail Addresse:"
+#~ msgstr "IEmail cím:"
 
